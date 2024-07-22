@@ -39,8 +39,8 @@ from previous positions painted along the trajectory.
 ## Differnece From the Paper
 Due to licensing issues with some third-party plugins and libraries, we are unable to share certain components on GitHub. Specifically, the following plugins used in the original paper are not included in this repository:
 
-- **Bio-IK**: The inverse kinematics solver for robot arm.
-- **Obi Softbody**:  The particle-based physics engine for simualtion of body deformation and force.
+- [**Bio-IK**](https://assetstore.unity.com/packages/tools/animation/bio-ik-67819): The inverse kinematics solver for robot arm.
+- [**Obi Softbody**](https://assetstore.unity.com/packages/tools/physics/obi-softbody-130029): The particle-based physics engine for simualtion of body deformation and force.
 
 Instead, we have created a minimal example scene that only contains the essential parts of our visualization techniques. This scene is designed to demonstrate the core feature and can be used as a starting point for further development. 
 
